@@ -1,6 +1,6 @@
 """
-Time complexity = O(N)
-Space Complexity = O(N), it is hypothetcial meaning it uses teh stack space
+Time complexity = O(2^N)
+Space Complexity = O(2^N), it is hypothetcial meaning it uses teh stack space
 """
 
 
